@@ -30,6 +30,7 @@ Here is the **Pyber Summary DataFrame** containing ride-sharing data by city typ
 
 
 ##Summary
+
 Based on the data provided and visualization, here are my three business recommendations to address any disparities among the city types:
   1. With a high Average Fare numbers for Rural with lower count for Rides and Drivers, PyBer need to consider expanding their business in Rural areas by hiring more drivers which will increase their total ride and fare and increase their profit and company's value
   2. Similar situation for Rural, Pyber also need to consider hiring more drivers which will also increase the total rides which will result in an increase in total fare
